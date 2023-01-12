@@ -3,7 +3,7 @@
 - Toolbox_room_actions
 - onboarding.form.standaloneServerForm.title
 - onboarding.form.registeredServerForm.continueStandalone
-- onboarding.page.invalidLink.content
+- onboarding.page.*
 
 ## 术语表
 - workspace: 工作区
