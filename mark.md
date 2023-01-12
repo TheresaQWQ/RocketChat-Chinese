@@ -8,5 +8,5 @@
 
 ## 本地化术语表
 - teams: 群组
-- Broadcast: 频道
+- Broadcast: 频道或广播，看具体语境修改
 - channel: 房间
