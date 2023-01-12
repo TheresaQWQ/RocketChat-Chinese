@@ -5443,7 +5443,6 @@
     "Your_web_browser_blocked_Rocket_Chat_from_opening_tab": "Your web browser blocked Rocket.Chat from opening a new tab.",
     "Your_workspace_is_ready": "您的工作区已准备好使用🎉",
     "Zapier": "Zapier",
-<<<<<<< HEAD
     "registration.page.login.errors.wrongCredentials": "用户ID或密码错误",
     "registration.page.login.errors.loginBlockedForIp": "此IP已被暂时禁止登录",
     "registration.page.login.errors.loginBlockedForUser": "此用户已被暂时禁止登录",
@@ -5467,31 +5466,6 @@
     "registration.component.resetPassword": "重置密码",
     "registration.component.form.emailOrUsername": "邮箱或用户ID",
     "registration.component.form.email": "邮箱",
-=======
-    "registration.page.login.errors.wrongCredentials": "User not found or incorrect password",
-    "registration.page.login.errors.loginBlockedForIp": "Login has been temporarily blocked for this IP",
-    "registration.page.login.errors.loginBlockedForUser": "Login has been temporarily blocked for this User",
-    "registration.page.login.errors.licenseUserLimitReached": "The maximum number of users has been reached.",
-    "registration.page.login.errors.AppUserNotAllowedToLogin": "App users are not allowed to log in directly.",
-    "registration.page.registration.waitActivationWarning": "Before you can login, your account must be manually activated by an administrator.",
-    "registration.page.login.register": "New here? <1>Create an account</1>",
-    "registration.page.login.forgot": "Forgot your password?",
-    "registration.page.register.back": "Back to Login",
-    "registration.page.emailVerification.subTitle": "This server requires verified email addresses. Please check your email inbox for a verification link.",
-    "registration.page.emailVerification.sent": "Verification email sent, please check your inbox.",
-    "registration.page.resetPassword.sent": "If this email is registered, we'll send instructions on how to reset your password. If you do not receive an email shortly, please come back and try again.",
-    "registration.page.resetPassword.sendInstructions": "Send instructions",
-    "registration.page.resetPassword.errors.invalidEmail": "Invalid Email",
-    "registration.page.poweredBy": "Powered by <1>Rocket.Chat</1>",
-    "registration.component.welcome": "Welcome to <1>Rocket.Chat</1> workspace",
-    "registration.component.login": "Login",
-    "registration.component.login.userNotFound": "User not found",
-    "registration.component.login.incorrectPassword": "Incorrect password",
-    "registration.component.switchLanguage": "Switch to <1>en</1>",
-    "registration.component.resetPassword": "Reset password",
-    "registration.component.form.emailOrUsername": "Email or username",
-    "registration.component.form.email": "Email",
->>>>>>> a92cdf412d35b2bd77c48f36a8834b7221aa762b
     "registration.component.form.emailPlaceholder": "example@example.com",
     "registration.component.form.password": "Password",
     "registration.component.form.divider": "or",
@@ -5574,7 +5548,6 @@
     "onboarding.form.standaloneServerForm.manuallyIntegrate": "Need to manually integrate with external services",
     "Something_Went_Wrong": "Something went wrong",
     "Toolbox_room_actions": "Primary Room actions",
-<<<<<<< HEAD
     "Theme_light": "亮色主题",
     "Theme_dark": "暗色主题",
     "Join_your_team": "加入你的团队",
@@ -5605,11 +5578,5 @@
     "URL_room_suffix": "房间 URL 后缀",
     "User__username__is_now_a_owner_of__room_name_": "用户 __username__ 现在是 __room_name__ 的拥有者",
     "Video Conference": "视频会议"
-=======
-    "Theme_light": "Light",
-    "Theme_dark": "Dark",
-    "Join_your_team": "Join your team",
-    "Create_an_account": "Create an account"
->>>>>>> a92cdf412d35b2bd77c48f36a8834b7221aa762b
   }
 }
