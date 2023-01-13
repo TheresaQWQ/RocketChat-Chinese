@@ -4107,7 +4107,7 @@
     "Room_has_been_removed": "Room has been removed",
     "Room_has_been_unarchived": "已撤销房间的归档状态",
     "Room_Info": "房间信息",
-    "room_is_blocked": "这个房间已被屏蔽",
+    "room_is_blocked": "这个会话已被屏蔽",
     "room_account_deactivated": "这个账户还没有激活或者被管理员封禁了",
     "room_is_read_only": "你现在无权在这个房间发言，房间可能是只读的，或者你被管理员禁言了",
     "room_name": "房间名称",
