@@ -3059,7 +3059,7 @@
     "Mailer": "发件人",
     "Mailer_body_tags": "你<b>必须</b>使用 [unsubscribe] 作为取消订阅的链接。<br/>你可以使用 [name]、[fname] 和 [lname] 分别作为用户全名、名称或姓氏。<br/>你可以使用 [email] 作为用户的电子邮箱地址。",
     "Mailing": "邮件",
-    "Make_Admin": "设置为全局管理员",
+    "Make_Admin": "设置为管理员",
     "Make_sure_you_have_a_copy_of_your_codes_1": "请确保您有一份您代码的副本：",
     "Make_sure_you_have_a_copy_of_your_codes_2": "如果您无法访问身份验证器应用，可使用其中的一条代码来登录。",
     "manage-agent-extension-association": "Manage Agent Extension Association",
