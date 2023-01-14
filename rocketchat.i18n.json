@@ -5030,7 +5030,7 @@
     "User_mentions_only": "仅@我的消息",
     "User_muted": "禁言用户",
     "User_muted_by": "<em>__user_by__ </em>已禁言用户 <em>__user_muted__</em>。",
-    "User_has_been_muted": "__user_muted__ 被 __user_by__ 禁言了",
+    "User_has_been_muted": "禁言了 __user_muted__ ",
     "User_not_found": "找不到用户",
     "User_not_found_or_incorrect_password": "用户不存在或密码错误",
     "User_or_channel_name": "用户或者房间名称",
