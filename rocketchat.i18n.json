@@ -5044,7 +5044,7 @@
     "User_Settings": "用户设置",
     "User_started_a_new_conversation": "__username__ 开始了新的会话",
     "User_unmuted_by": "<em>__user_by__ </em>已解除用户 <em>__user_unmuted__</em>的禁言。",
-    "User_has_been_unmuted": "unmuted __user_unmuted__",
+    "User_has_been_unmuted": "取消了 __user_unmuted__ 的禁言",
     "User_unmuted_in_room": "用户在房间中的禁言已被取消",
     "User_updated_successfully": "用户更新成功",
     "User_uploaded_a_file_on_channel": "<strong>__username__</strong>在<strong>__channel__</strong>中上传了一个文件",
