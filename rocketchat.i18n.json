@@ -3443,7 +3443,7 @@
     "New_Message_Notification": "新消息通知",
     "New_messages": "新消息",
     "New_OTR_Chat": "新的OTR（无记录）会话",
-    "New_password": "新密码",
+    "New_password": "若要更改账户密码，请在下方输入新密码，否则请留空",
     "New_Password_Placeholder": "请输入新密码...",
     "New_Priority": "新优先级",
     "New_role": "新角色",
