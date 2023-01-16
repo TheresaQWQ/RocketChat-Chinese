@@ -5443,7 +5443,7 @@
     "Your_workspace_is_ready": "您的工作区已准备好使用🎉",
     "Zapier": "Zapier",
     "registration.page.login.errors.wrongCredentials": "用户ID或密码错误",
-    "registration.page.login.errors.loginBlockedForIp": "此IP已被暂时禁止登录",
+    "registration.page.login.errors.loginBlockedForIp": "由于安全原因，此IP已被暂时禁止登录",
     "registration.page.login.errors.loginBlockedForUser": "由于多次输入错误密码，此用户已被暂时禁止登录",
     "registration.page.login.errors.licenseUserLimitReached": "已达到最大用户数。",
     "registration.page.login.errors.AppUserNotAllowedToLogin": "App用户不允许直接登录。",
