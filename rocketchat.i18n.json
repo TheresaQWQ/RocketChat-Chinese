@@ -2058,7 +2058,7 @@
     "False": "否",
     "Fallback_forward_department": "Fallback department for forwarding",
     "Fallback_forward_department_description": "Allows you to define a fallback department which will receive the chats forwarded to this one in case there's no online agents at the moment",
-    "Favorite": "喜欢",
+    "Favorite": "收藏",
     "Favorite_Rooms": "启用房间收藏",
     "Favorites": "收藏",
     "featured": "featured",
